@@ -12,9 +12,9 @@ const Header = () => {
             <a href="">Residencies</a>
             <a href="">Our Values</a>
             <a href="">Contact Us</a>
-            <a href="">get Started</a>
-            <button className="buttom">
-              <a href="">Conatact</a>
+            <a href="">Get Started</a>
+            <button className="button">
+              <a href="">Contact</a>
             </button>  
               
           </div>

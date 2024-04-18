@@ -13,7 +13,7 @@ const Hero = () => {
                     <div className="hero-title">
                         <div className="orange-circle"/>
                         <h1>
-                            Discovery <br/> 
+                            Discover <br/> 
                             Most Suitable <br/> 
                             Property
                         </h1>

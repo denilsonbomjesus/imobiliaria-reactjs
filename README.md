@@ -4,7 +4,7 @@ Checkpoints:
 - [x] Installing Requirements
 - [x] Header
 - [x] Hero
-- [ ] Companies
+- [x] Companies
 - [ ] Slider/Residencies
 - [ ] Value
 - [ ] Contacts
