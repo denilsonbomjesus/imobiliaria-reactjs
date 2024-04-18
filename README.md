@@ -5,7 +5,7 @@ Checkpoints:
 - [x] Header
 - [x] Hero
 - [x] Companies
-- [ ] Slider/Residencies
+- [x] Slider/Residencies
 - [ ] Value
 - [ ] Contacts
 - [ ] Get Started
